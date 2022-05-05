@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+nav{
+    display: flex;
+    
+    
+    
+}
+nav span{
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+    font-size: large;
+}
+li{
+    margin-right: 10px;
+    padding: 15px;
+    
+}
+li a{
+    text-decoration: none;
+    padding : 5px;
+    color: black;
+}
+ul li a:hover{
+    text-decoration: underline;
+    color: blueviolet;
+}
+#Home{
+    
+    background-image: url("/images/backgroundimg.jpg");
+    background-size: cover;
+    height: 100%;
+    
+
+}
+
+
+#Home img{
+    border-radius: 50%;
+    border: 1px solid rgb(124, 13, 235);
+    display: block;
+    margin: auto;
+}
+.heading{
+    text-align: center;
+    padding: 20px;
+    
+}
+.icons{
+    text-align: center;
+    font-size: 50px;
+}
+.icons a{
+    margin: 10px;
+    color: white;
+}
+.icons a:hover{
+    color: black;
+}
+
+#container{
+    margin: auto;
+    padding: 50px;
+    width: 80%;
+    text-align: center;
+}
+#container h1{
+    margin-bottom: 30px;
+}
+button{
+    padding: 9px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 35px;
+    width: 125px;
+    font-size: 20px;
+    color: #000;
+}
+
+button a{
+    color: black;
+    text-decoration: none;
+}
+button:hover{
+    background-color: blueviolet;
+    
+}
