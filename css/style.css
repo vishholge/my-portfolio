@@ -124,6 +124,7 @@ button a{
 }
 button:hover{
     background-color: blueviolet;
+    cursor: pointer;
     
 }
 #skills{
@@ -179,4 +180,8 @@ button:hover{
 }
 .lower-part{
     padding: 0px 25px 10px 25px;
+}
+#sorting{
+    text-align: center;
+    margin-bottom: 3rem;
 }
