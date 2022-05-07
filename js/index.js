@@ -1,5 +1,7 @@
 function mainProjects(){
-
+    document.getElementById("mainproject").style.display = "block";
+    document.getElementById("miniproject").style.display = "none";
+    console.log("vishwanth");
     
 }
 function miniProjects(){

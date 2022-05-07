@@ -170,7 +170,10 @@ button:hover{
     
     margin-left: 1rem;
     border-radius: 9%;
+    position: relative;
     box-shadow: 2px 3px 6px 1px blueviolet;
+    
+
 }
 .upper-part{
     width: 300px;
@@ -184,4 +187,7 @@ button:hover{
 #sorting{
     text-align: center;
     margin-bottom: 3rem;
+}
+#miniproject{
+    display: none;
 }
