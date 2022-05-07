@@ -160,7 +160,7 @@ button:hover{
     margin-top: 50px;
     text-decoration: underline;
 }
-#mywork .container{
+.mywork .container{
     display: flex;
     justify-content: space-evenly;
 }
