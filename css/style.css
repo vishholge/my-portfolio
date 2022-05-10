@@ -132,7 +132,8 @@ button:hover{
     
     align-items: center;
     text-align: center;
-    color: blueviolet;
+    color: white;
+    
     
 }
 .myskills{
@@ -140,6 +141,8 @@ button:hover{
     width: 80%;
     border-radius: 5rem;
     margin: auto;
+    background-color: blueviolet;
+    
 
 }
 .myskills h2{
