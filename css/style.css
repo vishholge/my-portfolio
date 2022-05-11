@@ -92,7 +92,7 @@ ul li a:hover{
     color: white;
     
 }
-#About_me{
+#Aboutme{
     margin-top: 120px;
 }
 
@@ -147,14 +147,17 @@ button:hover{
 }
 .myskills h2{
     margin-bottom: 50px;
+    line-height: 4rem;
 }
 
 #technicalskills{
     justify-content: center;
+    line-height: 5rem;
 
 }
 #other-skills{
     justify-content: center;
+    line-height: 5rem;
 }
 
 #projects{
@@ -194,3 +197,26 @@ button:hover{
 #miniproject{
     display: none;
 }
+footer{
+    background-color: blueviolet;
+    height: 250px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-items{
+    border: 3px solid white;
+    padding: 2rem;
+    color: white;
+    font-size: 1.5rem;
+
+}
+footer a:hover{
+    text-decoration: none;
+    color: yellow;
+
+    
+}
+    
+
