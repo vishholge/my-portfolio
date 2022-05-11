@@ -69,7 +69,7 @@ ul li a:hover{
 
 #Home img{
     border-radius: 50%;
-    border: 1px solid rgb(124, 13, 235);
+    border: 2px solid red;
     display: block;
     margin: auto;
     
@@ -169,6 +169,7 @@ button:hover{
 .mywork .container{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .container-items{
@@ -210,6 +211,7 @@ footer{
     padding: 2rem;
     color: white;
     font-size: 1.5rem;
+    text-align: center;
 
 }
 footer a:hover{
