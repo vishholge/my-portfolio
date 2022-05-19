@@ -209,10 +209,13 @@ footer{
 .footer-items{
     border: 3px solid white;
     padding: 2rem;
-    color: white;
+    color: black;
     font-size: 1.5rem;
     text-align: center;
 
+}
+footer a{
+    color: black;
 }
 footer a:hover{
     text-decoration: none;
