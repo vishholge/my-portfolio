@@ -53,7 +53,7 @@ ul li a:hover{
 
 }
 #Home::before{
-    background-image: url("/images/backgroundimg.jpg");
+    background-image: url("images/backgroundimg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
